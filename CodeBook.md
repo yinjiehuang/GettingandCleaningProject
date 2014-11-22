@@ -23,3 +23,5 @@ There are 79 features, the names are coded like:
 8. All the frequency features have "mean", "std" and "meanFreq" data.
 
 All the combinations give us 79 features.
+
+For example, "tBodyAcc-mean()-X" means Time Domain Body Accelerometer mean value in the X direction.
