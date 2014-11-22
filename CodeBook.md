@@ -1,6 +1,6 @@
 #CodeBook
 
-This dataset contains 30 subjects. 
+The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. The subjects are coded from 1 to 30.
 
 Each subject has 6 action labels:
 
@@ -25,3 +25,8 @@ There are 79 features, the names are coded like:
 All the combinations give us 79 features.
 
 For example, "tBodyAcc-mean()-X" means Time Domain Body Accelerometer mean value in the X direction.
+
+For each record:
+
+- All the feature values are normalized and bounded within [-1, 1].
+- Each feature vector is a row on the text file.
